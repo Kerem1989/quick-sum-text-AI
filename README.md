@@ -46,13 +46,12 @@
 
 <!-- TECHNOLOGIES USED -->
 ## Technologies used
-* [![Java][Java.com]][Java-url]
-* [![MySQL][MySQL.com]][MySQL-url]
-* [![Spring Boot][SpringBoot.com]][SpringBoot-url]
-* [![HTML][HTML.com]][HTML-url]
-* [![JavaScript][JavaScript.com]][JavaScript-url]
-* [![Thymeleaf][Thymeleaf.com]][Thymeleaf-url]
-* [![Maven][Maven.com]][Maven-url]
+* [![Node.js][Node.js]][Node-url]
+* [![Express][Express]][Express-url]
+* [![Hugging Face][HuggingFace]][HuggingFace-url]
+* [![HTML][HTML]][HTML-url]
+* [![CSS][CSS]][CSS-url]
+* [![JavaScript][JavaScript]][JavaScript-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -95,21 +94,16 @@ Project Link: [https://github.com/Kerem1989/quick-sum-text-AI](https://github.co
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[Java.com]: https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white
-[Java-url]: https://www.java.com
-[MySQL.com]: https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
-[MySQL-url]: https://www.mysql.com
-[SpringBoot.com]: https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white
-[SpringBoot-url]: https://spring.io/projects/spring-boot
-[HTML.com]: https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[Node.js]: https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+[Node-url]: https://nodejs.org/
+[Express]: https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white
+[Express-url]: https://expressjs.com/
+[HuggingFace]: https://img.shields.io/badge/Hugging%20Face-FFB000?style=for-the-badge&logo=huggingface&logoColor=white
+[HuggingFace-url]: https://huggingface.co/
+[HTML]: https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [HTML-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
-[JavaScript.com]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+[CSS]: https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[CSS-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[JavaScript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 [JavaScript-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[Thymeleaf.com]: https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white
-[Thymeleaf-url]: https://www.thymeleaf.org
-[Maven.com]: https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white
-[Maven-url]: https://maven.apache.org
-
 
