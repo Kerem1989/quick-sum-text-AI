@@ -33,7 +33,7 @@
 ## About The Project
 
   <div>
-    <img src="src/main/resources/static/images/admin.png" alt="Logo" width="667" height="292">
+    <img src="public/images/pic.png" alt="Logo" width="332" height="153">
   </a>
 
 <div>
