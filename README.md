@@ -31,15 +31,13 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-  <div>
-    <img src="public/images/pic.png" alt="Logo" width="332" height="153">
-  </a>
-
 <div>
     <p>This AI-powered text summarizer web app is a comprehensive and user-friendly application designed to create concise summaries of large text inputs. Built using modern web development technologies, it leverages the power of artificial intelligence through the Hugging Face Inference API to provide efficient and accurate text summarization.</p>
 </div>
 
+  <div>
+    <img src="public/images/pic.png" alt="Logo" width="332" height="153">
+  </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
