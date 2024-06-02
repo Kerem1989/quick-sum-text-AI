@@ -23,7 +23,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="src/main/resources/static/images/TR.png" alt="Logo" width="200" height="200">
+    <img src="public/images/logo.png" alt="Logo" width="150" height="150">
   </a>
 
   <h3 align="center">AI Text Summarizer</h3>
