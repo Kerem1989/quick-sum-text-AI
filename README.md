@@ -31,21 +31,15 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<div>
-    <p>This JavaEE webshop is a comprehensive e-commerce platform with features including user authentication, product browsing, shopping cart functionality, and admin capabilities. It is built using JavaEE technologies to provide a robust and scalable solution for online retail.</p>
-</div>
 
   <div>
     <img src="src/main/resources/static/images/admin.png" alt="Logo" width="667" height="292">
   </a>
 
+<div>
+    <p>This AI-powered text summarizer web app is a comprehensive and user-friendly application designed to create concise summaries of large text inputs. Built using modern web development technologies, it leverages the power of artificial intelligence through the Hugging Face Inference API to provide efficient and accurate text summarization.</p>
+</div>
 
-
-Features:
-* User Authentication: Users can sign up, log in, and manage their accounts securely.
-* Product Browsing: Browse through a wide range of products available in the store.
-* Shopping Cart: Add products to the shopping cart, update quantities, and proceed to checkout.
-* Admin Features: Admin users can manage products, view orders, and perform other administrative tasks.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -60,11 +54,7 @@ Features:
 * [![Thymeleaf][Thymeleaf.com]][Thymeleaf-url]
 * [![Maven][Maven.com]][Maven-url]
 
-
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
@@ -72,15 +62,9 @@ Features:
 
 To run this project, you need the following software installed:
 
-* Java Development Kit (JDK) 11 or higher
-* Maven for managing dependencies and building the project
-* MySQL for database management
-
-## Installation
-* Clone the repository
-* Build the project using Maven
-* Run the tests to ensure everything is set up correctly
-* To start the application, run the following command: java -jar target/webshop-1.0-SNAPSHOT.jar
+* Node.js (latest version)
+* Replit account for deploying your application
+* Postman for API exploration and integration
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -94,16 +78,7 @@ Distributed under the MIT License.
 ## Contact
 Kerem Bjälvenäs Tazedal - kerem.tazedal.89@gmail.com
 
-Project Link: [https://github.com/Kerem1989/JavaEE-Webshop](https://github.com/Kerem1989/JavaEE-Webshop)
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-Special thanks to Dmitry Khalizov for his valuable contributions and collaboration throughout the development of this project.
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+Project Link: [https://github.com/Kerem1989/quick-sum-text-AI](https://github.com/Kerem1989/quick-sum-text-AI)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
